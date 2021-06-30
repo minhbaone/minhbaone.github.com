@@ -122,10 +122,10 @@ $('#yes').click(function() {
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("img/iput-bg.jpg")',
                 title: 'Tớ biết mà ^^ Yêu cậu lắm hehehehehehhehehe',
-                text: "đi chơi thôi nào hehe:v Còn giờ thì chờ gì nữa mà ko inbox cho tớ đi nàoooooo",
+                text: "đi chơi thôi nào hehe:v Còn giờ thì chờjehehenữa mà ko inbox cho tớ đi nàoooooo",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'http://fb.com';
+                    window.location = 'https://www.messenger.com/t/100009093869975';
                   }
             })
         }
