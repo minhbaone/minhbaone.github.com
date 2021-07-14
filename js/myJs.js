@@ -73,7 +73,7 @@ $('#no').click(() => {
 // generate text in input
 function textGenerate() {
     var n = "";
-    var text = " Tại vì anh dễ thương lắm luôn á :< ";
+    var text = " Tại vì anh dễ thương lắm luôn í :< ";
     var a = Array.from(text);
     var textVal = $('#txtReason').val() ? $('#txtReason').val() : "";
     var count = textVal.length;
@@ -122,7 +122,7 @@ $('#yes').click(function() {
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("img/iput-bg.jpg")',
                 title: 'Anh biết mà ^^ Yêu bé ',
-                text: "Giờ thì tìm anh là ai rồi ib thôi nào (Có gợi ý ở trên á nhoa)",
+                text: "Giờ thì tìm anh đi nha =) Anh đợi đấy ",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
                     window.location = 'https://www.facebook.com/';
