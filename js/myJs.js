@@ -122,7 +122,7 @@ $('#yes').click(function() {
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("img/iput-bg.jpg")',
                 title: 'Anh biết mà ^^ Yêu bé ',
-                text: "Giờ thì tìm anh đi nha =) Anh đợi đấy ",
+                text: "Giờ thì tìm anh đi nha =) Anh đợi đấy (Tìm đâu đó ở trên ấy)",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
                     window.location = 'https://www.facebook.com/saokhue123/friends';
