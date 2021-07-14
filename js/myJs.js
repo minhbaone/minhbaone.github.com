@@ -121,8 +121,9 @@ $('#yes').click(function() {
                 width: 900,
                 confirmButtonText: 'Okiiiii lun <3',
                 background: '#fff url("img/iput-bg.jpg")',
-                title: 'Tớ biết mà ^^ Yêu cậu lắm hehehehehehhehehe',
-                text: "đi chơi thôi nào hehe:v Còn giờ thì chờjehehenữa mà ko inbox cho tớ đi nàoooooo",
+                title: 'Anh biết mà ^^ Yêu bé 😘😘😘',
+                text: "Giờ thì tìm anh là ai rồi ib thôi nào 😍😍",
+                <p>Có gợi ý ở trên á nha</p>
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
                     window.location = 'https://www.messenger.com/t/100009093869975';
