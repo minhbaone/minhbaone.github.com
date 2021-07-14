@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Giờ thì tìm anh đi nha =) Anh đợi đấy ",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.facebook.com/';
+                    window.location = 'https://www.facebook.com/saokhue123/friends';
                   }
             })
         }
