@@ -125,7 +125,7 @@ $('#yes').click(function() {
                 text: "Giờ thì tìm anh là ai rồi ib thôi nào (Có gợi ý ở trên á nhoa)",
                 confirmButtonColor: '#83d0c9',
                 onClose: () => {
-                    window.location = 'https://www.messenger.com/t/100009093869975';
+                    window.location = 'https://www.facebook.com/';
                   }
             })
         }
